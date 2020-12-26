@@ -3,7 +3,7 @@ Parameter set test
 
 1. Clone this git repository
 ```
-clone https://github.com/makepluscode/ros2-param-test
+git clone https://github.com/makepluscode/ros2-param-test
 cd ros2-param-test/
 ```
 
